@@ -15,7 +15,7 @@ own judgment.
 
 Do this before they sit down, or as the sitting opens. It decides nothing.
 
-1. Run `./bin/pos-view someday` from the garden root.
+1. Run `./bin/startup-prompt --view someday` from the garden root.
 2. Read each item's body and what it links to.
 3. For each, look for what has changed since it was set aside: a project
    that now does it, a ruling that replaced it, or work that makes it
