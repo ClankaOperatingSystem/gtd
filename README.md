@@ -22,4 +22,4 @@ garden's `.agents/skills/`.
 
 The skills run the garden's `bin/startup-prompt`, `bin/pos-place`,
 `bin/pos-state`, `bin/pos-person` and `bin/doctrine-audit`, and name its
-`capture`, `project-handling` and `project-review` skills.
+`capture` and `project-handling` skills and ClankOS's `clankos-review`.

@@ -1,6 +1,6 @@
 ---
 name: gtd-get-current
-description: Run the second part of David Allen's Weekly Review with the person, get current, by gathering the garden's next actions, waiting items, dates, reviews due and projects with no next action, and presenting each for their decision. Use when they ask to get current or to check what is next, waiting or due, or as the second of the three parts of the weekly review; not for reviewing one project in depth, which the project-review skill does.
+description: Run the second part of David Allen's Weekly Review with the person, get current, by gathering the garden's next actions, waiting items, dates, reviews due and projects with no next action, and presenting each for their decision. Use when they ask to get current or to check what is next, waiting or due, or as the second of the three parts of the weekly review; not for reviewing one project in depth, which the clankos-review skill does.
 ---
 
 Bring the garden's lists up to date with the person, so that what they say is
@@ -46,7 +46,7 @@ item, what bears on it, and a suggestion where there is one.
 
 Record each decision in the item's own file as they give it: the keyword, the
 date, or a line under the item. A project review is the
-`project-review` skill's work and may take a
+`clankos-review` skill's work and may take a
 sitting of its own; setting a project aside or closing it is
 `project-handling`'s.
 
