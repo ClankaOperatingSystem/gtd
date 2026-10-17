@@ -14,8 +14,9 @@ and presents, and may suggest. It changes no item on its own judgment.
 
 Do this before they sit down, or as the sitting opens. It decides nothing.
 
-1. Run `./bin/pos-view next waiting scheduled deadlines reviews
-   reviews-to-schedule stuck` from the garden root.
+1. Run `./bin/startup-prompt --view next --view waiting --view scheduled
+   --view deadlines --view reviews --view reviews-to-schedule --view stuck`
+   from the garden root.
    The waiting view lists items under each person they wait on. Its list
    "WAITING on no person" is one to fix: each item there waits on a thing,
    which its text should say, or on a person not yet linked, which

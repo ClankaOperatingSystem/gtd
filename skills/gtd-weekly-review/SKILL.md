@@ -21,8 +21,8 @@ part gathers and presents, and may suggest.
 
 ## Open
 
-Run `./bin/pos-view reviews` from the garden root. Find the root's "Weekly
-review" item under "Root reviews" and tell them whether it is due today, late
+Run `./bin/startup-prompt --view reviews` from the garden root. Find the
+root's "Weekly review" item under "Root reviews" and tell them whether it is due today, late
 and by how many days, or not yet due. Ask how much time they have.
 
 Do the gathering of all three parts before they begin, where the session

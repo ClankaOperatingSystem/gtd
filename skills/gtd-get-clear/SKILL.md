@@ -14,12 +14,12 @@ and presents, and may suggest. It moves nothing on its own judgment.
 
 Do this before they sit down, or as the sitting opens. It decides nothing.
 
-1. Run `./bin/pos-view intray` from the garden root. It lists every open item
-   under "Unsorted" in each scope's `intray.org`.
+1. Run `./bin/startup-prompt --view intray` from the garden root. It lists
+   every open item under "Unsorted" in each scope's `intray.org`.
 2. Read each item's body in its file, and what it links to when the title
    alone does not say what it is.
 3. List the finished items still in each intray, `DONE` and `CANCELLED`.
-4. Run `./bin/pos-view scheduled` and note the trackers' sweep items that are
+4. Run `./bin/startup-prompt --view scheduled` and note the trackers' sweep items that are
    due: an issue tracker is another intray.
 
 ## Present
