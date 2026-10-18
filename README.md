@@ -21,5 +21,5 @@ A garden declares this methodology in its configuration, at a tag:
 garden's `.agents/skills/`.
 
 The skills run the garden's `bin/startup-prompt`, `bin/pos-place`,
-`bin/pos-state`, `bin/pos-person` and `bin/doctrine-audit`, and name its
+`bin/pos-state`, `bin/pos-person` and `bin/pos-lint`, and name its
 `capture` and `project-handling` skills and ClankOS's `clankos-review`.

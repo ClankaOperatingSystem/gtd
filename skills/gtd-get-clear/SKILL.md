@@ -57,7 +57,7 @@ ID or `FILE:LINE`; `--help` has the rest. To mark an item `DONE` or
 move shifts the lines below it in the intray, so read the item's line again
 before the next move, or name items by ID. `pos-place` prints each link that
 names the item's old place; repair those. After the sitting, run
-`./bin/doctrine-audit links .`.
+`./bin/pos-lint`.
 
 ## Close
 
